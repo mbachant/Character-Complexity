@@ -2,7 +2,7 @@
 Calculate and compare complexity of Unicode characters in multiple texts in multiple languages
 
 Texts for analysis should be in UTF-8 .txt format, in one folder
-  specify location in Text_Parser.ipynb
+	Specify location in Text_Parser.ipynb
 
 Extract_text_from_pdf.ipynb can be used to convert PDF files to text files, examples in Test-Files
 Some PDF files are images and require different processing to be converted: so far Hindi and Hebrew gave unresolved issues
